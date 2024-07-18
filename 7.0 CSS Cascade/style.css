@@ -12,7 +12,7 @@ p {
 }
 
 #outer-box {
-  border: 10px solid purple;
+  background-color:  purple;
 }
 
 .inner-box {
